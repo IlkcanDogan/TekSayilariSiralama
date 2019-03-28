@@ -1,0 +1,10 @@
+C:\Users\MKA\Desktop\Programlar\TekSayilariSiralama\TekSayilariSiralama\bin\Debug\TekSayilariSiralama.exe.config
+C:\Users\MKA\Desktop\Programlar\TekSayilariSiralama\TekSayilariSiralama\bin\Debug\TekSayilariSiralama.exe
+C:\Users\MKA\Desktop\Programlar\TekSayilariSiralama\TekSayilariSiralama\bin\Debug\TekSayilariSiralama.pdb
+C:\Users\MKA\Desktop\Programlar\TekSayilariSiralama\TekSayilariSiralama\obj\Debug\TekSayilariSiralama.Form1.resources
+C:\Users\MKA\Desktop\Programlar\TekSayilariSiralama\TekSayilariSiralama\obj\Debug\TekSayilariSiralama.Properties.Resources.resources
+C:\Users\MKA\Desktop\Programlar\TekSayilariSiralama\TekSayilariSiralama\obj\Debug\TekSayilariSiralama.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\Programlar\TekSayilariSiralama\TekSayilariSiralama\obj\Debug\TekSayilariSiralama.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\Programlar\TekSayilariSiralama\TekSayilariSiralama\obj\Debug\TekSayilariSiralama.exe
+C:\Users\MKA\Desktop\Programlar\TekSayilariSiralama\TekSayilariSiralama\obj\Debug\TekSayilariSiralama.pdb
+C:\Users\MKA\Desktop\Programlar\TekSayilariSiralama\TekSayilariSiralama\obj\Debug\TekSayilariSiralama.csprojAssemblyReference.cache
